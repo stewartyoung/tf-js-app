@@ -10,5 +10,5 @@
 * tensorflowjs
 ***Use pip to install these***
 
-## WHat is the VGG16 model?
+## What is the VGG16 model?
 It is a pre-trained image classification model
