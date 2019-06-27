@@ -21,7 +21,9 @@ https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-2
   * Activate environment  
   `conda env list`  
   `conda activate py36`
-  * I then exported all packages in the environment to an environment.yaml file, which you can use to create the environment yourself using:   
+  * I then exported all packages in the environment to an environment.yaml file  
+  `conda env export > environment.yaml`  
+  which you can use to create the environment yourself using:   
   `conda env create -f environment.yaml`
   
 ## What is the VGG16 model?
