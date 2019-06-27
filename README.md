@@ -19,7 +19,7 @@ https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-2
 * Solved more problems with this fantastic tutorial: https://www.youtube.com/watch?v=59duINoc8GM
 * Created Python 3.6 environment py36
   * Activate environment  
-  `conda env list`
+  `conda env list`  
   `conda activate py36
   * I then exported all packages in the environment to an environment.yaml file, which you can use to create the environment yourself using:   
   `conda env create -f environment.yaml`
