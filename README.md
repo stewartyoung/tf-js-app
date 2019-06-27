@@ -27,7 +27,7 @@ https://www.howtogeek.com/266621/how-to-make-windows-10-accept-file-paths-over-2
   `conda env create -f environment.yaml`
   
 ## Setting up the node.js server using express
-* cd into local-server and run `npm iniit` initially to set up package.json, and add express as a dependency.  
+* cd into local-server and run `npm init` initially to set up package.json, and add express as a dependency.  
 * Then you need to run `npm install` from the root *local-server*, then the node_modules folder will be downloaded, and the package-lock.json will be added, which contains metadata about the package used in the project
   
 ## What is the VGG16 model?
